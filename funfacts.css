@@ -1,3 +1,31 @@
+#FirstImage {
+    height: 50%;
+    width: 50%;
+}
+#FourthImage {
+    height: 50%;
+    width: 50%;
+}
+#FifthImage {
+    height: 50%;
+    width: 50%;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 10px solid #3c1518;
+
+} 
+p {
+   text-align: center;
+   color: #006600
+}
+h2{
+    color: #DB995A;
+    font-family: "Playfair Display", serif;
+    text-align: center; 
+}
 body {
     background-color: #ccfccb;
     margin: 0;
@@ -5,7 +33,7 @@ body {
     font-weight: 800;
 
 }
-.container{
+.container {
     width: 70%;    
     height: 100%;          
     margin: 0 auto;

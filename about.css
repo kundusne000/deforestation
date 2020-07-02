@@ -1,3 +1,33 @@
+#MyPicture {
+    height: 50%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#FirstImage {
+    height: auto;
+    width: 551px;
+    padding: 10px;
+    margin-left: 8%
+}
+#SecondImage {
+    height: 362px;
+    width: auto;
+    padding: 10px;
+}
+
+p {
+    text-align: center;
+    color: #006600;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+h2 {
+    color: #DB995A;
+    font-family: "Playfair Display", serif;
+    text-align: center; 
+}
 body {
     background-color: #ccfccb;
     margin: 0;
